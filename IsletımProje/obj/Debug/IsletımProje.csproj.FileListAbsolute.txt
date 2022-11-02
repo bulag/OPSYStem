@@ -1,0 +1,16 @@
+c:\users\samsung\documents\visual studio 2013\Projects\IsletımProje\IsletımProje\bin\Debug\IsletımProje.exe.config
+c:\users\samsung\documents\visual studio 2013\Projects\IsletımProje\IsletımProje\obj\Debug\IsletımProje.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2013\Projects\IsletımProje\IsletımProje\obj\Debug\IsletımProje.Form1.resources
+c:\users\samsung\documents\visual studio 2013\Projects\IsletımProje\IsletımProje\obj\Debug\IsletımProje.KapatAc.resources
+c:\users\samsung\documents\visual studio 2013\Projects\IsletımProje\IsletımProje\obj\Debug\IsletımProje.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2013\Projects\IsletımProje\IsletımProje\obj\Debug\IsletımProje.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2013\Projects\IsletımProje\IsletımProje\bin\Debug\IsletımProje.exe
+c:\users\samsung\documents\visual studio 2013\Projects\IsletımProje\IsletımProje\bin\Debug\IsletımProje.pdb
+c:\users\samsung\documents\visual studio 2013\Projects\IsletımProje\IsletımProje\obj\Debug\IsletımProje.exe
+c:\users\samsung\documents\visual studio 2013\Projects\IsletımProje\IsletımProje\obj\Debug\IsletımProje.pdb
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\IsletımProje\IsletımProje\obj\Debug\IsletımProje.Zaman.resources
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\IsletımProje\IsletımProje\obj\Debug\IsletımProje.EkranÇözünürlüğü.resources
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\IsletımProje\IsletımProje\obj\Debug\IsletımProje.Dosya.resources
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\IsletımProje\IsletımProje\obj\Debug\IsletımProje.EkranGoruntusuAlma.resources
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\IsletımProje\IsletımProje\obj\Debug\IsletımProje.NotDefterı.resources
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\IsletımProje\IsletımProje\obj\Debug\IsletımProje.Klavye.resources
